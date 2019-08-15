@@ -11,7 +11,7 @@ namespace ConsoleApp5
         static void Main()
         {
             Random aleatorio = new Random();
-            int dado = 0, dado2 = 0, contador1 = 0, total = 0, contador2 = 0, contador3 = 0;
+            int dado = 0, dado2 = 0, contador1 = 0, total = 0;
             string arrojar = "";
 
 
